@@ -15,5 +15,6 @@
   
 ### Steps to run the App.
 
-### 1. ``` npm install ```
-### 2. ``` npm start ```
+### 1. ``` Download the Code ```
+### 2. ``` npm install ```
+### 3. ``` npm start ```
